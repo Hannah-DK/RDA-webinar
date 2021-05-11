@@ -1,7 +1,9 @@
 **Program**
 
+
+
 | #   | Duration   | Agenda Item                                                                                                            |
-|:----|:-----------|:-----------------------------------------------------------------------------------------------------------------------|                                                                                                       |
+|:----|:-----------|:-----------------------------------------------------------------------------------------------------------------------|                                       
 | 1   | 5 minutes   | Introduction (RDA-SE / RDA-DK) - organisational perspective |
 | 2   | 10 minutes  | What does FAIR in the context of software mean and what are the differences to FAIR data |
 | 3   | 20 minutes  | Nordic perspective <br /> What are the common practices right now? <br /> What are the challenges? |
