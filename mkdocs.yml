@@ -1,0 +1,12 @@
+site_name: RDA: webinar series on FAIR research software
+nav:
+
+    - Schedule: Schedule.md
+    - Program for next webinar: Program.md
+    - Previous webinars: Previous webinars
+    - Organizers: Organizers.md
+
+theme: readthedocs
+
+markdown_extensions:
+    - footnotes
