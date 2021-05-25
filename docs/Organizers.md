@@ -1,6 +1,6 @@
 Behind this initiative are members of previous northern european RDA nodes that were founded under the [RDA Europe 4.0 project](https://grants.rd-alliance.org/), which ran out in 2020.
 
-**Members from Denmark:**<br/>
+**Organizers from Denmark:**<br/>
 Anna-Mette Morthorst<br/>
 Anne Sofie Fink<br/>
 Hannah Mihai<br/>
@@ -9,7 +9,7 @@ Hannah Mihai<br/>
 Rene Belsø<br/>
 Anders Sparre Conrad<br/>
 
-**Members from Sweden:**<br/>
+**Organizers from Sweden:**<br/>
 Max Petzold<br/>
 Monica Lassi<br/>
 Martin Brandhagen
