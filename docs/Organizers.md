@@ -13,3 +13,6 @@ Anders Sparre Conrad<br/>
 Max Petzold<br/>
 Monica Lassi<br/>
 Martin Brandhagen
+
+
+**If you are interested in joining in on this effort, please contact Hannah.Mihai@deic.dk**
