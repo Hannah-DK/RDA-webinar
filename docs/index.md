@@ -4,6 +4,6 @@ We are organizing a webinar series on FAIR research software using RDA outputs a
 
 The first webinar will be held on 30.08.2021, 13.00-15.00 (CEST) and will be a general introduction. The content of the upcoming webinars will be determined by our audiences interest.
 
-You can sign up for the webinar **here** (link follows)
+You can sign up for the webinar **[here.](https://deic.zoom.us/meeting/register/u5Ypcu-qqDIiHN3RCmgYC9BVUlMtX7bLyclP)** 
 
 After each webinar, the material (notes and slides) are going to get uploaded here.
