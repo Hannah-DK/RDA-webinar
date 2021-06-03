@@ -2,17 +2,31 @@ Behind this initiative are members of previous northern european RDA nodes that 
 
 **Organizers from Denmark:**<br/>
 <br/>Anna-Mette Morthorst<br/>
+<img src="https://user-images.githubusercontent.com/74252404/120639159-59b03200-c471-11eb-914a-18d961b6053b.jpg" width="200" /><br/> 
+
 <br/>Anne Sofie Fink<br/>
+<img src="https://user-images.githubusercontent.com/74252404/120639540-c0355000-c471-11eb-829d-445389c44e71.jpg" width="200" /><br/>
+
 <br/>Hannah Mihai<br/>
-<img src="https://user-images.githubusercontent.com/74252404/119500789-77daab80-bd68-11eb-82a9-cda708824d6c.jpg" width="200" /><br/> 
+<img src="https://user-images.githubusercontent.com/74252404/119500789-77daab80-bd68-11eb-82a9-cda708824d6c.jpg" width="200" /><br/>
 *I am a data management consultant, working for the Danish e-Infrastructure Cooporation (DeiC) since 2020. I have a research background in Geology and am now trying to make the every day life of a researcher easier.*<br/>
+
 <br/>Rene Belsø<br/>
+<img src="https://user-images.githubusercontent.com/74252404/120640735-1d7dd100-c473-11eb-818a-f6c6fd529ed6.png" width="200" /><br/>
+
 <br/>Anders Sparre Conrad<br/>
+<img src="https://user-images.githubusercontent.com/74252404/120640814-31c1ce00-c473-11eb-8ee0-96270b329956.jpg" width="200" /><br/>
+
 
 **Organizers from Sweden:**<br/>
 <br/>Max Petzold<br/>
-<br/>Monica Lassi<br/>
-<br/>Martin Brandhagen
+<img src="https://user-images.githubusercontent.com/74252404/120640876-469e6180-c473-11eb-9198-3123e007df48.jpg" width="200" /><br/>
 
+<br/>Monica Lassi<br/>
+<img src="https://user-images.githubusercontent.com/74252404/120640951-59189b00-c473-11eb-9f55-50dc9cdd6a3a.jpg" width="200" /><br/>
+
+
+<br/>Martin Brandhagen<br/>
+<img src="https://user-images.githubusercontent.com/74252404/120640984-633a9980-c473-11eb-8eed-c775992d28c8.jpg" width="200" /><br/>
 
 **If you are interested in joining in on this effort, please contact [Hannah Mihai.](mailto:Hannah.Mihai@deic.dk)**
