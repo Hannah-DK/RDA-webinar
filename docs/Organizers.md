@@ -15,4 +15,4 @@ Behind this initiative are members of previous northern european RDA nodes that 
 <br/>Martin Brandhagen
 
 
-**If you are interested in joining in on this effort, please contact [Hannah Mihai](mailto:Hannah.Mihai@deic.dk)**
+**If you are interested in joining in on this effort, please contact [Hannah Mihai.](mailto:Hannah.Mihai@deic.dk)**
