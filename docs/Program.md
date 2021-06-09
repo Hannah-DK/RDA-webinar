@@ -14,3 +14,4 @@
 | 7   | 20 minutes  | Open discussion with prepared questions  |
 | 8   | 10 minutes   | Thanks and concluding remarks |
 
+The [FAIR for Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) (FAIR4RS) working group invites you to participate to work on community-endorsed FAIR principles for research software and encourage their adoption. There are multiple ways to [get involved](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagementChannels.md), from receiving news, to co-writing, presenting outputs and leading your own events related to #FAIR4RS.
