@@ -4,7 +4,7 @@ Since the funding for the national RDA nodes under the [RDA Europe 4.0 project](
 
 To do so, we are organizing a webinar series on FAIR research software.
 
-- When: 30 August 2021 at 13:00 - 15:00 CEST<br/>
+- When: 30 August 2021 at 13:00 - 15:00 CEST (see the event time in your [timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIR+software+webinar&iso=20210830T13&p1=1405&ah=2))<br/>
 - Where: online, connection details will be shared with registered attendees<br/>
 - **[Registration](https://deic.zoom.us/meeting/register/u5Ypcu-qqDIiHN3RCmgYC9BVUlMtX7bLyclP)**<br/>
 - [Description](https://rda-software-webinar.readthedocs.io/en/latest/Program/)<br/>
