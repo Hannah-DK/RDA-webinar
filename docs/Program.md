@@ -15,3 +15,7 @@
 | 8   | 10 minutes   | Thanks and concluding remarks |
 
 The [FAIR for Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) (FAIR4RS) working group invites you to participate to work on community-endorsed FAIR principles for research software and encourage their adoption. There are multiple ways to [get involved](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagementChannels.md), from receiving news, to co-writing, presenting outputs and leading your own events related to #FAIR4RS.
+
+[CodeRefinery](https://coderefinery.org/) is working with students, researchers, Research Software Engineers from all disciplines and national e-infrastructure partners to advance FAIRness of Software management and development practices so that research groups can collaboratively develop, review, discuss, test, share and reuse their codes.
+
+[The mission of INCF]( https://incf.org/)is to develop, evaluate, and endorse standards and best practices that embrace the principles of Open, FAIR, and Citable neuroscience. INCF also provides training on how standards and best practices facilitate reproducibility and enables the publishing of the entirety of research output, including data and code.
