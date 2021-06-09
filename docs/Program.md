@@ -9,7 +9,7 @@
 | 3   | 20 minutes  | Nordic perspective <br />**Speakers:** Malin Sandström, INCF and Radovan Bast, CodeRefinery|
 | 4   | 15 minutes  | Q&A    |
 |     | 10 minutes  | Break   | 
-| 5   | 20 minutes  | Outputs FAIR4RS WG <br /> **Speakers:** Paula Andrea and Carlos Martinez Ortiz, FAIR4RS WG|
+| 5   | 20 minutes  | Outputs FAIR4RS WG <br /> **Speakers:** Leyla Jael Garcia-Castro and Carlos Martinez Ortiz, FAIR4RS WG|
 | 6   | 15 minutes  | Q&A  |
 | 7   | 20 minutes  | Open discussion with prepared questions  |
 | 8   | 10 minutes   | Thanks and concluding remarks |
