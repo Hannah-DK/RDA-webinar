@@ -2,8 +2,8 @@
 
 We are organizing a webinar series on FAIR research software using [RDA](https://www.rd-alliance.org/) outputs and bringing their good work to the Nordic researchers and increase networking. 
 
-The first webinar will be held on 30.08.2021, 13.00-15.00 (CEST) and will be a general introduction. The content of the upcoming webinars will be determined by our audiences interest.
+The first webinar will be held on **30.08.2021, 13.00-15.00 (CEST)** and will be a general introduction. The content of the upcoming webinars will be determined by our audiences interest.
 
-You can sign up for the webinar **[here.](https://deic.zoom.us/meeting/register/u5Ypcu-qqDIiHN3RCmgYC9BVUlMtX7bLyclP)** 
+You can sign up for the upcoming webinar **[here.](https://deic.zoom.us/meeting/register/u5Ypcu-qqDIiHN3RCmgYC9BVUlMtX7bLyclP)** until the 30.08.2021
 
 After each webinar, the material (notes and slides) are going to get uploaded here.
