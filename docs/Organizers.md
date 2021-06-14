@@ -20,6 +20,7 @@ Behind this initiative are members of previous northern european RDA nodes that 
 <img src="https://user-images.githubusercontent.com/74252404/120640876-469e6180-c473-11eb-9198-3123e007df48.jpg" width="200" /><br/>
 
 <br/>Martin Brandhagen<br/>
-<img src="https://user-images.githubusercontent.com/74252404/120640984-633a9980-c473-11eb-8eed-c775992d28c8.jpg" width="200" /><br/>
-
+<img align="left" src="https://user-images.githubusercontent.com/74252404/120640984-633a9980-c473-11eb-8eed-c775992d28c8.jpg" width="200" /><br/>
+*I am a research data advisor, working for the Swedish National Data Service (SND) since 2012. I have a research background in nutrition and my main focus at SND is in the field of health and medical research data*
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 **If you are interested in joining in on this effort, please contact [Hannah Mihai](mailto:Hannah.Mihai@deic.dk).**
