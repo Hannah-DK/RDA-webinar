@@ -19,10 +19,6 @@ Behind this initiative are members of previous northern european RDA nodes that 
 <br/>Max Petzold<br/>
 <img src="https://user-images.githubusercontent.com/74252404/120640876-469e6180-c473-11eb-9198-3123e007df48.jpg" width="200" /><br/>
 
-<br/>Monica Lassi<br/>
-<img src="https://user-images.githubusercontent.com/74252404/120640951-59189b00-c473-11eb-9f55-50dc9cdd6a3a.jpg" width="200" /><br/>
-
-
 <br/>Martin Brandhagen<br/>
 <img src="https://user-images.githubusercontent.com/74252404/120640984-633a9980-c473-11eb-8eed-c775992d28c8.jpg" width="200" /><br/>
 
