@@ -26,6 +26,6 @@ disciplines and national e-infrastructure partners to advance FAIRness of
 software management and development practices so that research groups can
 better collaboratively develop, review, discuss, test, share, and reuse their
 codes. He is part of the [Nordic research software engineers](https://nordic-rse.org/) community.
-
+<br/><br/><br/><br/>
 <img align="left" src="https://user-images.githubusercontent.com/74252404/121644040-d0ad8200-ca92-11eb-8735-5d5b255ec4ad.jpg" width="200" /><br/>
 Malin Sandström is the Community Engagement officer for the International Neuroinformatics Coordinating Facility ([INCF]( https://incf.org/)). The mission of INCF is to help make neuroscience FAIR and move it towards an open, citable ecosystem. Malin has a PhD in computational neuroscience – she did computational modelling of the olfactory system – and a MSc in engineering physics with biophysics. She works with the INCF working groups, who are mainly software tool developers and maintainers, and is engaged in the Nordic and European RSE community. She is interested in reproducibility, interoperability and reuse of scientific outputs, including software. 
