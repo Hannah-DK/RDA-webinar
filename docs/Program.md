@@ -18,7 +18,7 @@ The [FAIR for Research Software](https://www.rd-alliance.org/groups/fair-4-resea
 
 <img align="left" src="https://user-images.githubusercontent.com/74252404/121680095-6f4cd980-cab9-11eb-8fa2-854813877c8e.jpg" width="200" /><br/>
 Leyla Jael Garcia Castro is currently working as team leader for the Semantic Retrieval research team, part of the Knowledge Management Group, at ZB MED Information Centre for life sciences. Her team mainly works on literature-based information retrieval, recommendation systems, and ontology/embeddings-based search and categorization. She is a Computer Scientist interested in semantic web, linked data, data science, open science and education. She is currently involved in community projects aiming to make FAIR a reality not only for data but also for software and training materials. She has worked on software development and data integration, semantic web (mostly on named entity recognition and its linked data applications), project coordination, scientific events organization and chairing, and community-based projects (e.g., Bioschemas and BioJS). She has also worked as a university lecturer on software development and information systems.
-<br/><br/>
+<br/>
 
 <img align="left" src="https://user-images.githubusercontent.com/74252404/122020935-80e9f600-cdc5-11eb-83ed-137ff05b7f05.jpg" width="200" /><br/>
 [Carlos Martinez Ortiz](https://user-images.githubusercontent.com/74252404/122020869-6ca5f900-cdc5-11eb-9b26-725abf2af94c.jpg)
