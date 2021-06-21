@@ -2,7 +2,8 @@ Behind this initiative are members of previous northern european RDA nodes that 
 
 **Organizers from Denmark:**<br/>
 <br/>Anna-Mette Morthorst<br/>
-<img src="https://user-images.githubusercontent.com/74252404/120639159-59b03200-c471-11eb-914a-18d961b6053b.jpg" width="200" /><br/> 
+<img src="https://user-images.githubusercontent.com/74252404/122738624-737bb280-d282-11eb-87c9-56fee583d0ad.jpg" width="200" /><br/> 
+
 
 <br/>Anne Sofie Fink<br/>
 <img align="left" src="https://user-images.githubusercontent.com/74252404/120639540-c0355000-c471-11eb-829d-445389c44e71.jpg" width="200" /><br/>
