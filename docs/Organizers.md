@@ -2,14 +2,15 @@ Behind this initiative are members of previous northern european RDA nodes that 
 
 **Organizers from Denmark:**<br/>
 
-<br/>Anne Sofie Fink<br/>
-<img align="left" src="https://user-images.githubusercontent.com/74252404/120639540-c0355000-c471-11eb-829d-445389c44e71.jpg" width="200" /><br/>
-*I am a data management consultant, working for the Danish e-Infrastructure Cooporation (DeiC) since May 2021. I have worked with research data management and FAIR data in national and international projects and networks since the terms were brand new.*<br/>
-<br/><br/><br/><br/><br/><br/><br/>
 <br/>Hannah Mihai<br/>
 <img align="left" src="https://user-images.githubusercontent.com/74252404/119500789-77daab80-bd68-11eb-82a9-cda708824d6c.jpg" width="200" /><br/>
 *I am a data management consultant, working for the Danish e-Infrastructure Cooporation (DeiC) since 2020. I have a research background in Geology and am now trying to make the every day life of a researcher easier.*<br/>
 <br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>Anne Sofie Fink<br/>
+<img align="left" src="https://user-images.githubusercontent.com/74252404/120639540-c0355000-c471-11eb-829d-445389c44e71.jpg" width="200" /><br/>
+*I am a data management consultant, working for the Danish e-Infrastructure Cooporation (DeiC) since May 2021. I have worked with research data management and FAIR data in national and international projects and networks since the terms were brand new.*<br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
 <br/>Anna-Mette Morthorst<br/>
 <img src="https://user-images.githubusercontent.com/74252404/122738624-737bb280-d282-11eb-87c9-56fee583d0ad.jpg" width="200" /><br/> 
 <br/>Rene Belsø<br/>
