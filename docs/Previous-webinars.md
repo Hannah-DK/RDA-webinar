@@ -6,6 +6,7 @@ Here you  can find material from previous webinars, after they have been held.
 
 [**Common Notes**](https://docs.google.com/document/d/1uYEE-urAscviople_RLbd_FS7gk4JxzKELZzcF9czts/edit)
 
+[**Recording**](https://drive.google.com/drive/folders/1IG2unyxjiBctZOEFokEi__HJt1UHqWmk)
 
 **Program**
 
