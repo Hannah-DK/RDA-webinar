@@ -6,10 +6,8 @@ As a starting point we have decided to begin our webinar series with the topic o
 
 The topics of the upcoming webinars will be influenced by the participants.
 
-- When: 30 August 2021 at 13:00 - 15:00 CEST (see the event time in your [timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIR+software+webinar&iso=20210830T13&p1=1405&ah=2))<br/>
-- Where: online, connection details will be shared with registered attendees<br/>
-- **[Registration](https://deic.zoom.us/meeting/register/u5Ypcu-qqDIiHN3RCmgYC9BVUlMtX7bLyclP)**<br/>
-- [Description](https://rda-software-webinar.readthedocs.io/en/latest/Program/)<br/>
+- The next webinar is in planning. If you want to be involved please contact Hannah.Mihai@deic.dk
+
 - [Organizing committee](https://rda-software-webinar.readthedocs.io/en/latest/Organizers/)<br/>
 
 
