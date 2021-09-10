@@ -2,7 +2,7 @@ Here you  can find material from previous webinars, after they have been held.
 
 ### **RDA-Nordic FAIR research software 30.08.2021** 
 
-[**Slides**](https://docs.google.com/presentation/d/1HozlBK1V74rI9IsnjCtxu13VHEKsvhdvLFlnNFzdGiE/edit#slide=id.p)
+[**Slides**](https://docs.google.com/presentation/d/1HozlBK1V74rI9IsnjCtxu13VHEKsvhdvLFlnNFzdGiE/present#slide=id.p)
 
 [**Common Notes**](https://docs.google.com/document/d/1uYEE-urAscviople_RLbd_FS7gk4JxzKELZzcF9czts/edit)
 
