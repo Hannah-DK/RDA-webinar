@@ -1,4 +1,4 @@
-**RDA-Nordic - standards and best practice recommendations for software repositories** 
+**RDA-Nordic - standards and best practice recommendations for software repositories** 05.11.2021, 10.00-11.30 CET
 
 | #   | Agenda Item|
 |:----|:-----------------------------------------------------------------------------------------------------------|                  
