@@ -13,8 +13,7 @@ Behind this initiative are members of previous northern european RDA nodes that 
 
 <br/>Anna-Mette Morthorst<br/>
 <img src="https://user-images.githubusercontent.com/74252404/122738624-737bb280-d282-11eb-87c9-56fee583d0ad.jpg" width="200" /><br/> 
-<br/>Rene Belsø<br/>
-<img src="https://user-images.githubusercontent.com/74252404/120640735-1d7dd100-c473-11eb-818a-f6c6fd529ed6.png" width="200" /><br/>
+
 
 **Organizers from Sweden:**<br/>
 <br/>Max Petzold<br/>
