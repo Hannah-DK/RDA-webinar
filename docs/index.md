@@ -6,9 +6,14 @@ As a starting point we have decided to begin our webinar series with the topic o
 
 The topics of the upcoming webinars will be influenced by the participants.
 
-- The next webinar is in planning. If you want to be involved please contact Hannah.Mihai@deic.dk
+- Upcoming webinar: **standards and best practice recommendations for software repositories** 
+- **When?** 05.11.2021, 10.00-11.30 CET (see the event in your [timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RDA-Nordic+-+standards+and+best+practice+recommendations+for+software+repositories&iso=20211105T10&p1=69&ah=1&am=30))
+
+- **Where?** online, the link will be shared upon [**Registration**](https://deic.zoom.us/meeting/register/u50sce-trzspHNNSELnzJ9EBjMnnadsvkiZ_)
 
 - [Organizing committee](https://rda-software-webinar.readthedocs.io/en/latest/Organizers/)<br/>
 
 
 After each webinar, the material (notes and slides) are going to get uploaded here.
+
+If you have any questions, please contact [Hannah Mihai](mailto:Hannah.Mihai@deic.dk) or [Martin Brandhagen](mailto:martin.brandhagen@gu.se) for additional information!
