@@ -3,7 +3,7 @@
 | #   | Agenda Item|
 |:----|:-----------------------------------------------------------------------------------------------------------|                  
 | 1   | Welcome by RDA-SE / RDA-DK|
-| 2   | Best practices for descriptive metadata for repository discovery <br />**Speaker:** Allyson Lister, FAIRsharing Registry WG <br />|
+| 2   | Best practices for descriptive metadata for repository discovery <br />**Speaker:** Allyson Lister, University of Oxford, RDA/Force11 FAIRsharing WG <br />|
 | 3   | Research Software in a scholarly ecosystem <br />**Speaker:** Morane Gruenpeter, Inria|
 | 4   | The SWHID : Software Heritage identifier to reference and cite code <br />**Speaker:** Malin Sandström, INCF   |
 | 5   | Thanks and concluding remarks |
