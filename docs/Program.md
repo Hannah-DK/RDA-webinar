@@ -13,6 +13,11 @@ Choosing the right repository for your data or software is hard. The RDA working
 
 **Speakers:**
 
+
+<img align="left" alt="Allyson" src="https://user-images.githubusercontent.com/74252404/136525094-cdbce503-178e-4756-a7dc-9469b325139a.PNG" width="200"/><br/> 
+Allyson is the Content and Community Coordinator for FAIRsharing, which is based at the Oxford e-Research Centre within University of Oxford. She received a PhD in Computer Science, specialising in semantic data integration, from Newcastle University. Past work includes UniProtKB at the European Bioinformatics Institute, a Research Associate at Newcastle University, and various short-term ontology development projects. She has contributed to a number of community standard formats and ontologies across a number of research disciplines including systems biology, biomedicine, software, and FAIR skills.
+<br/><br/><br/><br/>
+
 <img align="left" alt="Morane" src="https://user-images.githubusercontent.com/74252404/136000703-7e51bea0-ae80-402f-89f9-b97a5798ff0a.PNG" width="200"/><br/> 
 Morane is a software engineer and metadata specialist on the Software Heritage team at the Inria research center, Paris, France. She has a Master’s degree in Computer Science from the University Pierre et Marie Curie.  She is co-chair of the joint RDA, FORCE11 & ReSA: FAIR for Research Software Working group (FAIR4RS WG) and an active member of several working groups for Open Science and digital preservation, including: the RDA’s Software Source Code Interest Group (SSC IG), the FORCE11’s Software Citation Implementation Working Group (SCI WG) and the WikiData for Digital Preservation initiative (WikiDigi). Morane contributes to the FAIRsFAIR project where she leads the activities about FAIR software.
 <br/><br/><br/><br/><br/>
