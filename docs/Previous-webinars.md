@@ -1,6 +1,6 @@
 Here you  can find material from previous webinars, after they have been held.
 
-### **RDA-Nordic - standards and best practice recommendations for software repositories** <br />05.11.2021
+### **standards and best practice recommendations for software repositories** <br />05.11.2021
 
 [**Slides**](https://docs.google.com/presentation/d/1Q4lR-kmGBOVF1hwKgi5UjscM8JymwJUdi4u0KMbVr9w/present#slide=id.p)
 
@@ -38,7 +38,7 @@ Malin Sandström is the Community Engagement officer for the International Neuro
 
 <br /><br /><br /><br />
 
-### **RDA-Nordic FAIR research software** <br />30.08.2021
+### **FAIR research software** <br />30.08.2021
 
 [**Slides**](https://docs.google.com/presentation/d/1HozlBK1V74rI9IsnjCtxu13VHEKsvhdvLFlnNFzdGiE/present#slide=id.p)
 
