@@ -15,10 +15,15 @@ Reproducibility is an important factor playing into trustworthy research. The Kn
 **Speakers:**
 
 Birte Christensen-Dalsgaard
-![BCD_Birte_Christensen_Dalsgaard](https://user-images.githubusercontent.com/74252404/157414128-04070c63-ef52-41f4-8bc0-e17af9d6c37e.jpg)
+<img align ="left" alt= "Birte" src="https://user-images.githubusercontent.com/74252404/157414128-04070c63-ef52-41f4-8bc0-e17af9d6c37e.jpg" width="200"/>
+
+ 
 
 Limor Peer
-![Limor_Peer_VB2_022](https://user-images.githubusercontent.com/74252404/157414304-8436a24b-6924-4566-b2cc-166577d6e8a5.jpg)
+<img align ="left" alt= "Limor" src="https://user-images.githubusercontent.com/74252404/157414304-8436a24b-6924-4566-b2cc-166577d6e8a5.jpg" width="200"/>
+Limor Peer is Associate Director for Research and Strategic Initiatives at the Institution for Social and Policy Studies (ISPS), Yale University. Limor works on research transparency and reproducibility, establishing the ISPS Data Archive and leading the project to develop YARD, a workflow tool for reviewing and enhancing research outputs. She is co-founder of the CURE (Curation for Reproducibility) Consortium of social science data archives and is co-chair of the CURE-FAIR working group at the Research Data Alliance and the Practices working group of the ACM’s Emerging Interest Group on Reproducibility and Replicability. Limor received a PhD in Communication Studies from Northwestern University.
 
-![carlos](https://user-images.githubusercontent.com/74252404/157414337-1346609f-4b94-40f1-980f-e721dd309e6b.jpg)
+
+<img align ="left" alt= "Carlos" src= "https://user-images.githubusercontent.com/74252404/157415414-3c646ed0-30ab-4cbe-9bda-03fc764e477d.jpg" width="200"/> 
+
 Carlos Martinez Ortiz' main focus is on software sustainability, open science and FAIR research software. He is part of [the NL-RSE](https://nl-rse.org/] core team. Previously, he has worked as a research software engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. Carlos obtained his PhD in Computer Science at the University of Exeter.
