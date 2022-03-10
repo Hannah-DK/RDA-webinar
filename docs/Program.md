@@ -31,4 +31,4 @@ Limor Peer is Associate Director for Research and Strategic Initiatives at the I
 
 <img align ="left" alt= "Carlos" src= "https://user-images.githubusercontent.com/74252404/157415414-3c646ed0-30ab-4cbe-9bda-03fc764e477d.jpg" width="200"/> 
 
-Carlos Martinez Ortiz' main focus is on software sustainability, open science and FAIR research software. He is part of [the NL-RSE](https://nl-rse.org/] core team. Previously, he has worked as a research software engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. Carlos obtained his PhD in Computer Science at the University of Exeter.
+Carlos Martinez Ortiz' main focus is on software sustainability, open science and FAIR research software. He is part of [the NL-RSE](https://nl-rse.org/) core team. Previously, he has worked as a research software engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. Carlos obtained his PhD in Computer Science at the University of Exeter.
