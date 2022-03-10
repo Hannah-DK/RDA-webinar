@@ -15,6 +15,12 @@ Reproducibility is an important factor playing into trustworthy research. The Kn
 **Speakers:**
 
 <img align ="left" alt= "Birte" src="https://user-images.githubusercontent.com/74252404/157414128-04070c63-ef52-41f4-8bc0-e17af9d6c37e.jpg" width="200"/>
+Birte Christensen-Dalsgaard is Open Science coordinator at Aarhus University and Chairman of the Data Management Advisory Forum in Danish E-infrastructure Coorporation (DeiC).
+
+She holds a Ph.D. in Theoretical Atomic Physics and worked for 10 years as a physicist at Aarhus University. Since 1991 she has been engaged in developing research infrastructures, from HPC installation and support over digitalization of library content and digital preservation to establishing data infrastructures. She was involved in developing e-infrastructures and data management in DK and contributing to the [Danish National Strategy for Research Data Management based on the FAIR Principles](https://www.deic.dk/sites/default/files/documents/PDF/EN_National%20strategi%20for%20data%20management%20baseret%20p%C3%A5%20FAIR-principper.pdf)
+
+She is Danish expert in Knowledge Exchange, and part of more activities including the project [publishing reproducible research output](https://www.knowledge-exchange.info/event/publishing-reproducible-research-output) with the final report [The Art of Publishing Reproducible Research Outputs: Supporting emerging practices through cultural and technological innovation 2021.](https://doi.org/10.5281/zenodo.5521077)
+<br /><br /><br />
 
  
 
