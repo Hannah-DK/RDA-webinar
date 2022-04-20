@@ -1,4 +1,14 @@
-Here you  can find material from previous webinars, after they have been held.
+Here you  can find material from previous webinars.
+
+### **Research Software and Reproducibility** <br />08.04.2022
+
+[**Slides**](https://docs.google.com/presentation/d/1VihMQ9inIXA5COrohRV7YHKexSv6g1afTx1TwT9G7rE/present#slide=id.p)
+
+[**Common Notes**](https://docs.google.com/document/d/18iSwTtlzVEF_CXfQxFBHiQoj4P3wX1p6E2nwJnqmVts/edit#)
+
+[**Recording**](https://drive.google.com/file/d/1BLSt2_R_J19J0k97P4EI0hbJi-WjfJrg/view?usp=sharing)
+
+**Program**
 
 ### **standards and best practice recommendations for software repositories** <br />05.11.2021
 
